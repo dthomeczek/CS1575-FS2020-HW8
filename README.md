@@ -1,6 +1,6 @@
 # Homework #8
 
-This was the eighth coding assignment for the Fall 2020 CS1575 (Data Structures) course. The purpose of this code was designed around dynamically allocated two-dimensional arrays.
+This was the eighth coding assignment for the Fall 2020 CS1575 (Data Structures) course. The purpose of this code was designed around determining the number of viruses in code.
 
 # Information From Assignment README
 
